@@ -3,7 +3,7 @@
 play Puzzle & Mystery Games on steam and I craft from time to time. 
 - 🌱 I’m currently learning Coding basics, Java Script and Ren'py
 - 💞️ I’m participating in Otome Jam 2021
-- 📫 I'm on Intragram and Twitter. IG: @mg_eclecticartist, Creative Twitter: @MG_EclecticArts, Personal Twitter: @MelisaTG.
+
 
 <!---
 HuntressM/HuntressM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
